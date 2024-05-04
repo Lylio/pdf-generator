@@ -1,4 +1,4 @@
-# PDF Generator
+# PDF Generator 🗎
 
 ### Description
 A Java Spring Boot application that generates PDFs based on a Word template.
